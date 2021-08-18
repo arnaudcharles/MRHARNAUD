@@ -37,6 +37,3 @@ if (Get-InstalledModule -Name "PuppetBolt")
 }
 
 exit
-
-
-
